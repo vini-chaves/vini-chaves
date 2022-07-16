@@ -8,7 +8,7 @@ I am also a student at USP/Esalq, at the MBA for Data Science and Analytics.
 
 * 🌍  I'm based in Campinas, Brazil
 * ✉️  You can contact me at [viniciuschaves@poli.ufrj.com](mailto:viniciuschaves@poli.ufrj.com)
-* 🚀  I'm currently working on Samsung R&D Institute Brazil (SRBR)
+* 🚀  I'm currently working at Samsung R&D Institute Brazil (SRBR)
 * 🧠  I'm learning R Language and NoSQL Databases
 * ⚡  Fun fact **I think I am funny**
 
