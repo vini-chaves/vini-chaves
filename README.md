@@ -49,7 +49,7 @@ Test frameworks:
 &nbsp;<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/cypress-icon.svg" alt="cypress" width="40" height="40" align="center"/> </a> 
 &nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/selenium.svg" alt="selenium" width="40" height="40" align="center"/> </a> <br><br>
   
-Colud Storage:
+Cloud Storage:
 &nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="aws" width="59" height="35" align="center"/> </a> 
 &nbsp;<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" align="center"/> </a><br><br>
   
