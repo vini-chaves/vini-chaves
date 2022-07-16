@@ -2,9 +2,9 @@
 <h3 align="left">A QA Engineer and Data Science student/enthusiast</h3>
 <hr>
 
-I love to code and figure out how to solve deep problems using computation solutions. My main focus are Data Science, RPA development.
+I love to code and figure out how to solve deep problems using computation solutions. My main focus are Data Science and RPA development.
 
-I am also a student at USP/Esalq, at the MBA for Data Science and Analytics.
+I am also a student at USP/Esalq, on the MBA for Data Science and Analytics course.
 
 * 🌍  I'm based in Campinas, Brazil
 * ✉️  You can contact me at [viniciuschaves@poli.ufrj.com](mailto:viniciuschaves@poli.ufrj.com)
