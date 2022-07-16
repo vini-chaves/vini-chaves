@@ -23,8 +23,8 @@ Data Science Languages:
 Python libraries:
 &nbsp;<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/matplotlib-icon.svg" alt="matplotlib" width="40" height="40" align="center"/> </a> 
 &nbsp;<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" align="center"/> </a> 
-&nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/pandas.svg" alt="pandas" width="40" height="40" align="center"/> </a>
-&nbsp;<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/numpy.svg" alt="numpy" width="40" height="40" align="center"/> </a>
+&nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40" align="center"/> </a>
+&nbsp;<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40" align="center"/> </a>
 &nbsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" align="center"/> </a> 
 &nbsp;<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/flask.svg" alt="flask" width="40" height="40" align="center"/> </a> <br><br>
 
@@ -50,7 +50,7 @@ Test frameworks:
 &nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/selenium.svg" alt="selenium" width="40" height="40" align="center"/> </a> <br><br>
   
 Colud Storage:
-&nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/aws.svg" alt="aws" width="40" height="40" align="center"/> </a> 
+&nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="aws" width="59" height="35" align="center"/> </a> 
 &nbsp;<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" align="center"/> </a><br><br>
   
 Data Visualization:
