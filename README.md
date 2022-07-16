@@ -57,7 +57,8 @@ Data Visualization:
 
 Other:
 &nbsp;<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" align="center"/> </a>
-&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" align="center"/> </a> <br><br>
+&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" align="center"/> </a>
+&nbsp;<a href="https://www.sumologic.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/sumologic.svg" alt="sumologic" width="40" height="40" align="center"/> </a><br><br>
 </p>
 
 -----------------------------
