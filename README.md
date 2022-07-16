@@ -1,7 +1,7 @@
 Hi 👋 My name is Vinicius
 ==========================
 
-QA Engineer and Data Science student/enthusiast
+A QA Engineer and Data Science student/enthusiast
 -----------------------------
 
 I love to code and figure it out how to solve deep problems using computation solutions. My main focus are Data Science, RPA development.
@@ -47,8 +47,8 @@ I am also a student at USP/Esalq, at the MBA for Data Science and Analytics.
 
 <b>My GitHub Stats</b>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-chaves&show_icons=true&locale=en&layout=compact" alt="vini-chaves" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vini-chaves&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true&locale=en&layout=compact" alt="vini-chaves" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-chaves&show_icons=true&locale=en" alt="vini-chaves" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-chaves&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true&locale=en" alt="vini-chaves" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-chaves&" alt="vini-chaves" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vini-chaves&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true" alt="vini-chaves" /></p>
