@@ -24,6 +24,7 @@ Python libraries:
 &nbsp;<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/matplotlib-icon.svg" alt="matplotlib" width="40" height="40" align="center"/> </a> 
 &nbsp;<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" align="center"/> </a> 
 &nbsp;<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/pandas.svg" alt="pandas" width="40" height="40" align="center"/> </a>
+&nbsp;<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/numpy.svg" alt="numpy" width="40" height="40" align="center"/> </a>
 &nbsp;<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" align="center"/> </a> 
 &nbsp;<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/flask.svg" alt="flask" width="40" height="40" align="center"/> </a> <br><br>
 
