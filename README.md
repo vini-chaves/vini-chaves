@@ -1,16 +1,13 @@
 <h1 align="left">Hi 👋 My name is Vinicius Chaves</h1>
-<h3 align="left">A QA Engineer and Data Science student/enthusiast</h3>
+<h3 align="left">A QA/DEvOps Engineer and Data Science enthusiast</h3>
 <hr>
 
 I love to code and figure out how to solve deep problems using computation solutions. My main focus are Data Science and RPA development.
 
-I am also a student at USP/Esalq, on the MBA for Data Science and Analytics course.
-
 * 🌍  I'm based in Campinas, Brazil
-* ✉️  You can contact me at [viniciuschaves@poli.ufrj.com](mailto:viniciuschaves@poli.ufrj.com)
-* 🚀  I'm currently working at PadTec
-* 🧠  I'm learning Robot Framework , R Language and NoSQL Databases
-* ⚡  Fun fact **I think I am funny**
+* ✉️  You can contact me at [viniciuschaves8833@gmial.com](mailto:viniciuschaves8833@gmial.com)
+* 🚀  I'm currently working at PadTec S.A
+* 🧠  I'm learning Azure Cloud DevOps , AWS Cloud
 
 -----------------------------
 <h3 align="left">Skills:</h3>
@@ -47,9 +44,11 @@ Web dev. Languages:
   
 Test frameworks:
 &nbsp;<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/cypress-icon.svg" alt="cypress" width="40" height="40" align="center"/> </a> 
-&nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/selenium.svg" alt="selenium" width="40" height="40" align="center"/> </a> <br><br>
+&nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/selenium.svg" alt="selenium" width="40" height="40" align="center"/> </a> <br>
+&nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/robot.svg" alt="Robot-Framework" width="40" height="40" align="center"/> </a> <br>
+
   
-Cloud Storage:
+Cloud:
 &nbsp;<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png" alt="aws" width="59" height="35" align="center"/> </a> 
 &nbsp;<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" align="center"/> </a><br><br>
   
@@ -68,7 +67,7 @@ Other:
 <p align="left"> 
 <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;<a href="https://www.github.com/vini-chaves" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vinicius-chaves-81062a6a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vini-chaves/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 -----------------------------
