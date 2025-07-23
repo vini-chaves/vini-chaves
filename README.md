@@ -44,8 +44,8 @@ Web dev. Languages:
   
 Test frameworks:
 &nbsp;<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/cypress-icon.svg" alt="cypress" width="40" height="40" align="center"/> </a> 
-&nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/selenium.svg" alt="selenium" width="40" height="40" align="center"/> </a> <br>
-&nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/robot.svg" alt="Robot-Framework" width="40" height="40" align="center"/> </a> <br>
+&nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/selenium.svg" alt="selenium" width="40" height="40" align="center"/> </a> 
+&nbsp;<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/vini-chaves/logos/blob/main/robot.svg" alt="Robot-Framework" width="40" height="40" align="center"/> </a> <br><br>
 
   
 Cloud:
