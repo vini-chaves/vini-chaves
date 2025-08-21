@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 My name is Vinicius Chaves</h1>
-<h3 align="left">A QA/DEvOps Engineer and Data Science enthusiast</h3>
+<h3 align="left">A QA/DevOps Engineer and Data Science enthusiast</h3>
 <hr>
 
 I love to code and figure out how to solve deep problems using computation solutions. My main focus are Data Science and RPA development.
